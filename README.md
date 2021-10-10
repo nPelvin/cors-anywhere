@@ -46,7 +46,7 @@ Live examples:
 ## Documentation
 
 ### Client
-
+ 
 To use the API, just prefix the URL with the API URL. Take a look at [demo.html](demo.html) for an example.
 A concise summary of the documentation is provided at [lib/help.txt](lib/help.txt).
 
